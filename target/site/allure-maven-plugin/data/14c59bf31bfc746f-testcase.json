@@ -1,0 +1,206 @@
+{
+  "uid" : "14c59bf31bfc746f",
+  "name" : "Поиск планшета",
+  "title" : "Поиск планшета",
+  "time" : {
+    "start" : 1492592387225,
+    "stop" : 1492592438457,
+    "duration" : 51232
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 10
+  },
+  "failure" : null,
+  "description" : {
+    "value" : null,
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "d8a3a2a21df5e084",
+    "name" : "Огуречные тесты",
+    "title" : "Огуречные тесты"
+  },
+  "steps" : [ {
+    "name" : "Дано открываем сайт yandex.ru",
+    "title" : "Дано открываем сайт yandex.ru",
+    "time" : {
+      "start" : 1492592391407,
+      "stop" : 1492592393380,
+      "duration" : 1973
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда выбираем пункт меню",
+    "title" : "Тогда выбираем пункт меню",
+    "time" : {
+      "start" : 1492592393380,
+      "stop" : 1492592411614,
+      "duration" : 18234
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда в поле с ценой от вводим значение \"20000\"",
+    "title" : "Тогда в поле с ценой от вводим значение \"20000\"",
+    "time" : {
+      "start" : 1492592411614,
+      "stop" : 1492592414964,
+      "duration" : 3350
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда в поле с ценой до вводим значение \"25000\"",
+    "title" : "Тогда в поле с ценой до вводим значение \"25000\"",
+    "time" : {
+      "start" : 1492592414965,
+      "stop" : 1492592415283,
+      "duration" : 318
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И в блоке Производитель выбираем чекбоксы",
+    "title" : "И в блоке Производитель выбираем чекбоксы",
+    "time" : {
+      "start" : 1492592415284,
+      "stop" : 1492592425694,
+      "duration" : 10410
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И нажимаем кнопку \"Показать подходящие\"",
+    "title" : "И нажимаем кнопку \"Показать подходящие\"",
+    "time" : {
+      "start" : 1492592425695,
+      "stop" : 1492592426005,
+      "duration" : 310
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда проверяем что количество товаров равно \"12\"",
+    "title" : "Тогда проверяем что количество товаров равно \"12\"",
+    "time" : {
+      "start" : 1492592426006,
+      "stop" : 1492592428763,
+      "duration" : 2757
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И вводим название первого товара в поле поиска",
+    "title" : "И вводим название первого товара в поле поиска",
+    "time" : {
+      "start" : 1492592428763,
+      "stop" : 1492592430278,
+      "duration" : 1515
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И нажимаем кнопку \"Найти\" для поиска",
+    "title" : "И нажимаем кнопку \"Найти\" для поиска",
+    "time" : {
+      "start" : 1492592430278,
+      "stop" : 1492592437265,
+      "duration" : 6987
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда в результатах поиска сравниваем названия товаров",
+    "title" : "Тогда в результатах поиска сравниваем названия товаров",
+    "time" : {
+      "start" : 1492592437265,
+      "stop" : 1492592437621,
+      "duration" : 356
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "7784@Meehos-PC.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "Поиск планшета"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "feature",
+    "value" : "Огуречные тесты"
+  }, {
+    "name" : "suite-name",
+    "value" : "Огуречные тесты"
+  }, {
+    "name" : "host",
+    "value" : "Meehos-PC"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  } ],
+  "parameters" : [ ]
+}

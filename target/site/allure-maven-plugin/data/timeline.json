@@ -1,0 +1,31 @@
+{
+  "hosts" : [ {
+    "title" : "Meehos-PC",
+    "threads" : [ {
+      "title" : "7784@Meehos-PC.main(1)",
+      "testCases" : [ {
+        "uid" : "dea9b4e2dc5a5488",
+        "name" : "Поиск ноутбука",
+        "title" : "Поиск ноутбука",
+        "time" : {
+          "start" : 1492592341894,
+          "stop" : 1492592387183,
+          "duration" : 45289
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "14c59bf31bfc746f",
+        "name" : "Поиск планшета",
+        "title" : "Поиск планшета",
+        "time" : {
+          "start" : 1492592387225,
+          "stop" : 1492592438457,
+          "duration" : 51232
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
