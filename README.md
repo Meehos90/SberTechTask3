@@ -1,1 +1,1 @@
-# Maven + JUnit + WebDriver + Cucumber #
+# Maven + JUnit + Selenium WebDriver + Cucumber + Allure #
